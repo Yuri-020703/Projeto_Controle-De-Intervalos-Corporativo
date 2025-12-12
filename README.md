@@ -5,7 +5,7 @@ Este projeto foi desenvolvido com foco na **prática do ORM Entity Framework Cor
 ## 🚀 Tecnologias Utilizadas
 
 - 💻 **C#**  
-- 🛠️ **.NET Core
+- 🛠️ **.NET Core**
 - 🗃️ **Entity Framework Core**  
 - 🧱 **SQLite**  
 - 🖥️ **Console Application**
